@@ -1,4 +1,4 @@
-# mitino
+# Kanban Board
 
 ## Build Setup
 
